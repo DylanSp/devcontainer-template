@@ -6,6 +6,12 @@
     },
     "ghcr.io/devcontainers-extra/features/npm-packages:1": {
       "packages": "@openai/codex"
+    },
+    "ghcr.io/devcontainers-extra/features/haskell:2": {
+      "ghcVersion": "9.14.1",
+      "cabalVersion": "3.16.1.0",
+      "installHLS": true,
+      "installStack": false
     }
   }
 }
